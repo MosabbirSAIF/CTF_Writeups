@@ -1,8 +1,8 @@
-#JKKNIU Cyber Security Club Monthly Contest 5
+# JKKNIU Cyber Security Club Monthly Contest 5
 
-###Reverse Engineering:
+### Reverse Engineering:
 
-####(1)Open Code:
+#### (1)Open Code:
 Points: 50
 A binary file “test” was added.
 
@@ -24,7 +24,7 @@ Press enter or click to view image in full size
 
 There we go. The flag is : JKKNIUCTF{0h!_0p3n_c0d3??}
 
-####(2) Logic:
+#### (2) Logic:
 
 Points: 150
 A binary file “iloveYOutoo” was added.
@@ -35,7 +35,7 @@ Solve: At first I made it executable by using the command chmod +x iloveYOutoo. 
 
 So, Flag : JKKNIU{1_l0v3_r3v3rs3_Y0u}
 
-####(3) What’s up?
+#### (3) What’s up?
 
 Points: 100
 A binary file “run_to_get” was added.
@@ -53,7 +53,7 @@ Press enter or click to view image in full size
 Which did the work for me. So, Flag is : JKKNIUCTF{th1s_0n3_v3ry_e4sy}
 Note: “strings run_to_get” will also do it.
 
-####(4) Bitty encryption:
+#### (4) Bitty encryption:
 
 Points: 50
 The file is under maintenance, and each part is highly suspicious. Can you dig up my pass? Format: JKKNIUCTf{flag} . A binary file “bitty” was added.
@@ -77,7 +77,7 @@ To make it look like the flag formet I change the “TISD” with “JKKNIUCTF�
 
 So, the flag is : JKKNIUCTF{n0t1c3x86_l00ked_y0u}
 
-####(5)dot.Awesome code
+#### (5)dot.Awesome code
 
 Points: 200
 A binary file “challenge.ove” was added.
@@ -106,9 +106,9 @@ Here I got an interesting string “r3v3rs3_m3!” , which I used ask the key an
 So the flag is : JKKNIUCTF{0sm_1n_3v3rywh3re}
 
 
-###Steganography:
+### Steganography:
 
-####(1) Tall Tale:
+#### (1) Tall Tale:
 
 Points: 50
 When dimensions don’t align with expectations, secrets surface. Adjust wisely — only one axis holds the key. An image “stego.png” was added.
@@ -131,7 +131,7 @@ Press enter or click to view image in full size
 
 Then here is the flag : JKKNIU{H1dd3n_1n_7h3_by735}
 
-####(2) Audio:
+#### (2) Audio:
 
 Points: 100
 Do you know the telephone number of Belabose? An audio file named “steg.wav” was added. (underscore ‘_’ was supposed to be replaced in the place of any special character)
@@ -145,7 +145,7 @@ Press enter or click to view image in full size
 So the flag is: JKKNIUCTF{C0D3_2441139}
 
 
-####(3) Bagged up:
+#### (3) Bagged up:
 
 Points: 100
 Beneath the burden of countless bags, something concealed waits silently. Only the name that carries weight here can unlock the truth. An image named “challenge_1.jpg” was added.
@@ -166,7 +166,7 @@ Press enter or click to view image in full size
 Flag: JKKNIU{c4rry_0n_c4pta1n_b4gg4g3}
 
 
-####(4) Meow:
+#### (4) Meow:
 
 Points: 100
 What you see is only the surface — beneath lies a compressed secret waiting to be uncovered. Dive into the layers and inspect every detail; the key to unlock the treasure is hidden within the quiet corners beyond sight. — *Flag Format: JKKNIU{some_text}.
@@ -187,7 +187,7 @@ Press enter or click to view image in full size
 Then I unzipped the file with the password and got flag.txt file and the ans was: JKKNIU{y0u_f0und_m30w!}
 
 
-####(5) Spectral Noise:
+#### (5) Spectral Noise:
 
 Points: 100
 An image stego.png was added.
