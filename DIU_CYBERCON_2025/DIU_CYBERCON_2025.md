@@ -55,8 +55,7 @@ Here I got the path that we were looking for.
 
 #### 0x4:
 
-KBJUIVKDKZEUCVT3PIYWO4LSGNPW6YRXN5XTQX3MOQYHIM3XNZ4X2===
-
+KBJUIVKDKZEUCVT3PIYWO4LSGNPW6YRXN5XTQX3MOQYGKZJTNNQWMX3IGB2XK7I=
 
 #### 0x5: 
 The problem was : What registry path + value was used for persistence?
